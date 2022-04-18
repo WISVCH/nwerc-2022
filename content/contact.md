@@ -4,6 +4,7 @@ date: 2022-04-18T12:56:52+02:00
 weight: 9
 draft: false
 menu: main
+type: page
 ---
 The organisation can be contacted by [contact@nwerc.eu](mailto:contact@nwerc.eu). Companies interested in supporting the contest can contact [extern@ch.tudelft.nl](mailto:extern@ch.tudelft.nl).
 

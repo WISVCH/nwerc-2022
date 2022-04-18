@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://2022.nwerc.eu/'
 languageCode = 'en-us'
 title = 'NWERC 2022'
 theme = "ananke"
