@@ -1,4 +1,5 @@
 baseURL = 'https://2022.nwerc.eu/'
+copyright = "W.I.S.V. `Christiaan Huygens'"
 languageCode = 'en-us'
 title = 'NWERC 2022'
 theme = "ananke"
