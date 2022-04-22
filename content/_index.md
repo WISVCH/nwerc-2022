@@ -8,4 +8,4 @@ cascade:
 
 # Welcome
 
-Welcome on the website of the NWERC 2022!
+Welcome to the website of the NWERC 2022!
