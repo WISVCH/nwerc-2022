@@ -13,7 +13,7 @@ We are pleased to announce the Call for Problems (CfP) for the 2022 edition of t
 
 The tentative date for the contest is 25 to 27 November 2022, and is expected to take place in either online or distributed form. Submitters of selected candidate problems will become part of the NWERC 2022 Jury. They are expected to assist in the preparations of the final contest problem set, and they are expected to be available during the event. We allow combining the role of judge with the role of team coach. Please take great care to not confuse the roles, though!
 
-Questions regarding this call can be posed to: [cfp-2022@nwerc.eu](mailto:cfp-2022@nwerc.eu)
+Questions regarding this call can be posed to: [cfp@2022.nwerc.eu](mailto:cfp@2022.nwerc.eu)
 
 # Selection Procedure
 The deadline for submitting candidate problems is **July 11, 2022.**
@@ -48,9 +48,9 @@ We will be using the official ICPC problem format. If you want to use it when su
 
 # Submission Procedure
 The candidate problems are highly confidential. While not mandatory we suggest that the ZIP files are delivered to us in a safe (encrypted) manner. You can download the [public PGP key](/pgp2022.asc) when submitting a candidate problem. If you have a PGP key, please use it to sign your submission.
-Send the submission to: [cfp-2022@nwerc.eu](mailto:cfp-2022@nwerc.eu).
+Send the submission to: [cfp@2022.nwerc.eu](mailto:cfp@2022.nwerc.eu).
 
-If you haven't used PGP for encrypting before, you are encouraged to send an encrypted file containing the text "A little nonsense" to [cfp-2022@nwerc.eu](mailto:cfp-2022@nwerc.eu) to practice before sending your submission.
+If you haven't used PGP for encrypting before, you are encouraged to send an encrypted file containing the text "A little nonsense" to [cfp@2022.nwerc.eu](mailto:cfp@2022.nwerc.eu) to practice before sending your submission.
 
 You will receive a signed acknowledgement once the submission has been received and properly decrypted.
 
