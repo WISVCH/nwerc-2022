@@ -1,10 +1,8 @@
 ---
 title: "Call for Problems"
 link-title: "CFP"
-description: "Call for Problems NWERC 2022"
 date: 2022-04-18T11:50:27+02:00
 draft: false
-omit_header_text: true
 menu: main
 type: page
 weight: 1
