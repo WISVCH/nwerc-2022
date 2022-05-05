@@ -11,7 +11,7 @@ weight: 1
 ---
 We are pleased to announce the Call for Problems (CfP) for the 2022 edition of the NWERC programming contest.
 
-The tentative date for the contest is 25 to 27 November 2022, and is expected to take place in either online or distributed form. Submitters of selected candidate problems will become part of the NWERC 2022 Jury. They are expected to assist in the preparations of the final contest problem set, and they are expected to be available during the event. We allow combining the role of judge with the role of team coach. Please take great care to not confuse the roles, though!
+The tentative date for the contest is 25 to 27 November 2022, and is expected to take place on-campus. Submitters of selected candidate problems will become part of the NWERC 2022 Jury. They are expected to assist in the preparations of the final contest problem set, and they are expected to be available during the event. We allow combining the role of judge with the role of team coach. Please take great care to not confuse the roles, though!
 
 Questions regarding this call can be posed to: [cfp@2022.nwerc.eu](mailto:cfp@2022.nwerc.eu)
 
