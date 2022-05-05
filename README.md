@@ -7,5 +7,6 @@ on your local system.
 
 ## Development
 - Clone this repository including submodules: `git clone --recurse-submodules <url>`
+- Run `git lfs install` to initialize LFS hooks for this repository
 - Run `hugo serve -D` to run the application
 - Visit http://localhost:1313/
