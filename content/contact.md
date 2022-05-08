@@ -6,7 +6,7 @@ draft: false
 menu: main
 type: page
 ---
-The organisation can be contacted by [contact@nwerc.eu](mailto:contact@nwerc.eu). Companies interested in supporting the contest can contact [extern@ch.tudelft.nl](mailto:extern@ch.tudelft.nl).
+The organisation can be contacted by [contact@2022.nwerc.eu](mailto:contact@2022nwerc.eu). Companies interested in supporting the contest can contact [extern@2022.nwerc.eu](mailto:extern@c2022.nwerc.eu).
 
 # Organisation
 The NWERC 2022 is hosted by the [Delft University of Technology](https://www.tudelft.nl) and organised by [W.I.S.V. `Christiaan Huygens'](https://ch.tudelft.nl).
