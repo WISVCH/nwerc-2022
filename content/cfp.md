@@ -48,7 +48,14 @@ Please use the following setup for problem submission.
 - It is preferred (but not mandatory) if your Problem Statement is delivered in LaTeX format. Before the contest, the problems will be stylistically homogenised and typeset using LaTeX.
 - Please put all relevant files of your submission in a single directory containing one subdirectory per problem, and ZIP this directory.
 
-We will be using the official ICPC problem format. If you want to use it when submitting your proposal the format is documented [here](https://icpc.io/problem-package-format/spec/problem_package_format). You can also find example problem packages [here](http://www.problemarchive.org/wiki/index.php/Problem_Format).
+We will be using the official ICPC problem format. If you want to use it when
+submitting your proposal the format is documented
+[here](https://icpc.io/problem-package-format/spec/problem_package_format) and
+you can download a minimal sample [here](/problem_name.zip). A more
+complete sample can be found in the [BAPCtools
+repository](https://github.com/RagnarGrootKoerkamp/BAPCtools/tree/master/skel/problem),
+which is the tool we will be using for problem development, and is initialized
+using `bt new_problem`.
 
 # Submission Procedure
 
