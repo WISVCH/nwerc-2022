@@ -35,9 +35,9 @@ Problem submissions should adhere to the following guidelines:
 - The Problem Statement should include a clear discussion of expected input and output formats, as well as allowed parameter values.
 - The Problem Statement should include sample input and output files, one input per file.
   - Note: it is possible that your problem does not conform to the standard “fixed input -> fixed output” format; for example, if multiple outputs are possible for a given input, or if the input is generated dynamically using an interactive program. This is fine as long as the problem text is clear on the subject. In case your problem requires a non-standard checker program, you are encouraged to provide it with your submission.
-- The submission should include a separate, short “README.txt” file that explains the idea of the problem and the algorithm to be used.
-- The README.txt should give an assessment of the difficulty of the problem. This is a number between 0 and 100, indicating the percentage of NWERC teams that is expected NOT to solve the problem (so higher means more difficult).
-- Submissions should have an AUTHOR.txt file that states your name, email address, public PGP key (if available - see submission procedure), academic affiliation, and a short statement concerning your personal experience with programming contests (both as a contestant and as a judge). The “AUTHOR.txt” that accompanies your problem submission should be the only place where your identity is disclosed.
+- The submission should include a separate, short `README.md` file that explains the idea of the problem and the algorithm to be used.
+- The `README.md` should give an assessment of the difficulty of the problem. This is a number between 0 and 100, indicating the percentage of NWERC teams that is expected NOT to solve the problem (so higher means more difficult).
+- Submissions should have an `AUTHOR.md` file that states your name, email address, public PGP key (if available - see submission procedure), academic affiliation, and a short statement concerning your personal experience with programming contests (both as a contestant and as a judge). The `AUTHOR.txt` that accompanies your problem submission should be the only place where your identity is disclosed.
 
 We will need a variety of problem difficulties to make a well-balanced problem set. Do not hesitate to submit (relatively) simple problems for consideration.
 
