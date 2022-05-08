@@ -37,7 +37,7 @@ Problem submissions should adhere to the following guidelines:
   - Note: it is possible that your problem does not conform to the standard "fixed input -> fixed output" format; for example, if multiple outputs are possible for a given input, or if the input is generated dynamically using an interactive program. This is fine as long as the problem text is clear on the subject. In case your problem requires a non-standard checker program, you are encouraged to provide it with your submission.
 - The submission should include a separate, short `README.md` file that explains the idea of the problem and the algorithm to be used.
 - The `README.md` should give an assessment of the difficulty of the problem. This is a number between 0 and 100, indicating the percentage of NWERC teams that is expected NOT to solve the problem (so higher means more difficult).
-- Submissions should have an `AUTHOR.md` file that states your name, email address, public PGP key (if available - see submission procedure), academic affiliation, and a short statement concerning your personal experience with programming contests (both as a contestant and as a judge). The `AUTHOR.txt` that accompanies your problem submission should be the only place where your identity is disclosed.
+- Submissions should have an `AUTHOR.md` file that states your name, email address, public PGP key (if available - see submission procedure), academic affiliation, and a short statement concerning your personal experience with programming contests (both as a contestant and as a judge). The `AUTHOR.md` that accompanies your problem submission should be the only place where your identity is disclosed.
 
 We will need a variety of problem difficulties to make a well-balanced problem set. Do not hesitate to submit (relatively) simple problems for consideration.
 
@@ -68,6 +68,6 @@ You will receive a signed acknowledgement once the submission has been received 
 
 # Simultaneous Submissions to NCPC or UKIEPC
 
-If you wish for your problem submission to also be considered for usage in either the Nordic or UK & Ireland subregional contests (NCPC and UKIEPC) in case it is not selected for NWERC, you can add the sentence "This problem may be considered for X." (where X is one of NCPC or UKIEPC), to the README.txt file of your submission.
+If you wish for your problem submission to also be considered for usage in either the Nordic or UK & Ireland subregional contests (NCPC and UKIEPC) in case it is not selected for NWERC, you can add the sentence "This problem may be considered for X." (where X is one of NCPC or UKIEPC), to the `README.md` file of your submission.
 
 Adding this sentence will not affect whether the problem is selected for NWERC, and your submission will only be considered for the respective subregional if the problem is not selected for NWERC and the sentence is added.
