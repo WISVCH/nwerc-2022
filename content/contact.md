@@ -12,16 +12,16 @@ The organisation can be contacted at [contact@2022.nwerc.eu](mailto:contact@2022
 The NWERC 2022 is hosted by the [Delft University of Technology](https://www.tudelft.nl) and organised by [W.I.S.V. `Christiaan Huygens'](https://ch.tudelft.nl).
 
 # CHipCie
-The CHipCie takes care of the programming contest within Delft and consists of the following members:
+The CHipCie takes care of the programming contest within Delft and consists of the following members, mentioned in alphabetical order:
+* Yoshi van den Akker
 * Nadyne Aretz
+* Raoul Bruens
 * Elise Deen
-* Laura Pircalaboiu
 * Robert van Dijk
 * Jaden Nierop
-* Maarten Weyns
-* Yoshi van den Akker
-* Brian Witmer
-* Raoul Bruens
+* Laura Pircalaboiu
 * Maarten Sijm
-* Thomas Verwoerd
 * Merel Steenbergen
+* Thomas Verwoerd
+* Maarten Weyns
+* Brian Witmer
