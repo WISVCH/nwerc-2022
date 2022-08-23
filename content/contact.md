@@ -19,19 +19,19 @@ The CHipCie takes care of the programming contest within Delft and consist of th
 From left to right:
 * Nadyne Aretz, _Chairwoman_
 * Laura Pircalaboiu, _Treasurer_
-* Raoul Bruens, _Commisioner of Logistics & Activities_
-* Brian Witmer, _Commisioner of Recruitment & Promotion_
-* Maarten Sijm, _Commisioner of Jury Affairs_
+* Raoul Bruens, _Commissioner  of Logistics & Activities_
+* Brian Witmer, _Commissioner  of Recruitment & Promotion_
+* Maarten Sijm, _Commissioner  of Jury Affairs_
 
 ## Middle row
 From left to right:
-* Robert van Dijk, _Commisioner of Systems_
+* Robert van Dijk, _Commissioner  of Systems_
 * Elise Deen, _Secretary_
-* Maarten Weyns, _Commisioner of System Affairs_
-* Yoshi van den Akker, _Commisioner of System Affairs_
-* Thomas Verwoerd, _Commisioner of Coaches_
+* Maarten Weyns, _Commissioner  of System Affairs_
+* Yoshi van den Akker, _Commissioner  of System Affairs_
+* Thomas Verwoerd, _Commissioner  of Coaches_
 
 ## Bottom Row:
 From left to right:
 * Merel Steenbergen, _Qualitate Qua_
-* Jaden Nierop, _Commisioner of System Affairs_
+* Jaden Nierop, _Commissioner  of System Affairs_
