@@ -12,7 +12,7 @@ The organisation can be contacted at [contact@2022.nwerc.eu](mailto:contact@2022
 The NWERC 2022 is hosted by the [Delft University of Technology](https://www.tudelft.nl) and organised by [W.I.S.V. `Christiaan Huygens'](https://ch.tudelft.nl).
 
 # CHipCie
-The CHipCie takes care of the programming contest within Delft and consist of the following people.
+The CHipCie takes care of the programming contest within Delft and consists of the following people.
 ![CHipCie](/chipcie.webp)
 
 ## Top Row
