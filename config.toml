@@ -4,4 +4,6 @@ languageCode = 'en-us'
 title = 'NWERC 2022'
 theme = "ananke"
 [params]
-    site_logo = "nwerc-website.svg"
+  site_logo = "nwerc-website.svg"
+  custom_css = ["schedule.css"]
+  mainSections = ['news']

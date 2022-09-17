@@ -1,0 +1,43 @@
+{{ define "header" }}
+{{/* We can override any block in the baseof file be defining it in the template */}}
+{{ partial "page-header.html" . }}
+{{ end }}
+
+{{ define "main" }}
+{{ $section := .Site.GetPage "section" .Section }}
+<article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+        <aside class="instapaper_ignoref b helvetica tracked">
+            {{/*
+            CurrentSection allows us to use the section title instead of inferring from the folder.
+            https://gohugo.io/variables/page/#section-variables-and-methods
+            */}}
+            {{with .CurrentSection.Title }}{{. | upper }}{{end}}
+        </aside>
+        {{ partial "social-share.html" . }}
+        <h1 class="f1 athelas mt3 mb1">
+            {{- .Title -}}
+        </h1>
+
+        {{ $duration := time.ParseDuration .Params.duration }}
+        {{ $end := (add (printf "1970-01-01T%s%s" .Params.start ":00" | time ).Unix (div $duration 1000000000))}}
+
+        <span class="f6 mv4 dib tracked">
+            From <strong>{{ .Params.start }}</strong> until <strong>{{ div $end 3600 }}:{{ printf "%02d" (div (mod $end 3600) 60) }}</strong> on <strong>{{ humanize .Params.day }}</strong>
+            {{ with .Params.location }}
+             in <strong>{{ . }}</strong>
+            {{ end }}
+        </span>
+
+
+    </header>
+    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | default "serif"}} f4 nested-links {{ $.Param "text_color" | default "mid-gray" }} pr4-l w-two-thirds-l">
+    {{- .Content -}}
+    </div>
+
+    <aside class="w-30-l mt6-l">
+        {{- partial "menu-contextual.html" . -}}
+    </aside>
+
+</article>
+{{ end }}

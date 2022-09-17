@@ -1,0 +1,18 @@
+<!--Adapted from https://www.liquidlight.co.uk/blog/create-an-event-schedule-with-html-table/-->
+
+<table class="schedule">
+    {{ $.Scratch.Set "day" ($.Get "day") }}
+    {{ range $num := (seq (.Get "from") (.Get "to")) }}
+        {{ $.Scratch.Set "hour" . }}
+        {{ range $num := (seq 0 30 59) }}
+            <tr>
+                {{ $.Scratch.Set "minute" . }}
+                {{ $.Scratch.Set "time" (print ($.Scratch.Get "hour") ":" (printf "%02d" ($.Scratch.Get "minute"))) }}
+                {{ if (or (eq ($.Scratch.Get "minute") 0) (eq ($.Scratch.Get "minute") 30)) }}
+                    <th rowspan="1">{{ $.Scratch.Get "time" }}</th>
+                {{ end }}
+                {{ partial "timetable-row" $ }}
+            </tr>
+        {{ end }}
+    {{ end }}
+</table>
