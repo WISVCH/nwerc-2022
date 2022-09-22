@@ -9,5 +9,5 @@ We have added several new pages with information in preparation of the contest.
 * [Registration](/registration)
 * [Location](/location)
 
-We also invite coaches to join the NWERC slack. More informtion on the [contact](/contact) page.
+We also invite coaches to join the NWERC slack. More information on the [contact](/contact) page.
 
