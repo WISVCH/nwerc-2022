@@ -3,7 +3,6 @@ title: "Call for Problems"
 link-title: "CFP"
 date: 2022-04-18T11:50:27+02:00
 draft: false
-menu: main
 type: page
 weight: 1
 ---
