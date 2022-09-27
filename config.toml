@@ -3,7 +3,16 @@ copyright = "W.I.S.V. `Christiaan Huygens'"
 languageCode = 'en-us'
 title = 'NWERC 2022'
 theme = "ananke"
+
+
 [params]
+  favicon = ""
   site_logo = "nwerc-website.svg"
-  custom_css = ["schedule.css"]
+  background_color_class = "bg-navy-nwerc"
+  custom_css = ["background.css", "schedule.css"]
   mainSections = ['news']
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
