@@ -4,7 +4,6 @@ weight: 9
 menu: main
 type: page
 ---
-# Contest Location
 The contest will take place at the [Aula Conference Centre](https://iamap.tudelft.nl/en/poi/aula-conference-center/).
 
 
