@@ -5,7 +5,6 @@ draft: false
 menu: main
 type: page
 ---
-# Contest rules
 The ICPC regional contest rules can be found at the ICPC regionals website; [official ICPC regional rules](https://icpc.global/regionals/rules).
 
 In addition to the offical ICPC regional Rules, the following local rules also apply:
