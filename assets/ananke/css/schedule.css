@@ -1,10 +1,16 @@
 /*Adapted from https://www.liquidlight.co.uk/blog/create-an-event-schedule-with-html-table/*/
 
+.schedule td.void {
+    width: 0;
+    padding: 0;
+    height: 5px;
+}
+
 table.schedule {
     width: 100%;
 }
 
-.schedule tr:nth-child(even) th {
+.schedule tr th.minute {
     color: #ccc;
     font-weight: normal;
     font-size: 1rem;
@@ -66,7 +72,7 @@ table.schedule {
     background-color: #103149
 }
 
-.schedule td.activity.coaches{
+.schedule td.activity.coaches {
     background-color: #2F91D6
 }
 
