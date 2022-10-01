@@ -3,7 +3,7 @@
 .schedule td.void {
     width: 0;
     padding: 0;
-    height: 5px;
+    height: 6px;
 }
 
 table.schedule {
@@ -26,6 +26,8 @@ table.schedule {
     border-top: thin dotted #ccc;
     width: 1px;
     text-align: right;
+    vertical-align: top;
+    padding-top: 0.2rem;
 }
 
 .schedule td > a {
