@@ -1,4 +1,4 @@
-FROM klakegg/hugo AS  builder
+FROM klakegg/hugo:ci AS  builder
 COPY . /src
 RUN hugo
 
