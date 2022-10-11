@@ -1,4 +1,5 @@
-FROM klakegg/hugo:ci AS  builder
+FROM klakegg/hugo:ext AS  builder
+ENV HUGO_ENV=production
 COPY . /src
 RUN hugo
 
