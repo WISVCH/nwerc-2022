@@ -11,6 +11,7 @@ theme = "ananke"
   background_color_class = "bg-navy"
   custom_css = ["background.css"]
   mainSections = ['news']
+  env = ['production']
 
 [sitemap]
   changefreq = "monthly"
