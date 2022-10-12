@@ -1,9 +1,9 @@
 ---
-title: "Last info speech"
+title: "Q&A Test session"
 type: event
-day: sunday
-start: 9:00
-duration: 0h45m
+day: saturday
+start: 13:30
+duration: 1h0m
 width: 2
 location: Aula - Auditorium
 people: all

@@ -5,6 +5,7 @@ day: friday
 start: 10:00
 duration: 5h0m
 width: 1
-location: TN - Hall 3
+location: Library
 people: contestants
+draft: true
 ---
