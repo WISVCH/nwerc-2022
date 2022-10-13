@@ -1,0 +1,25 @@
+{{ define "header" }}{{ partial "page-header.html" . }}{{ end }}
+{{ define "main" }}
+<div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+        <header>
+            <h1 class="f1 mb1">
+                {{ .Title }}
+            </h1>
+
+            {{ $duration := time.ParseDuration .Params.duration }}
+            {{ $end := (add (printf "1970-01-01T%s%s" .Params.start ":00" | time ).Unix (div $duration 1000000000))}}
+
+            <span class="f6 mv4 dib tracked">
+            From <strong>{{ .Params.start }}</strong> until <strong>{{ div $end 3600 }}:{{ printf "%02d" (div (mod $end 3600) 60) }}</strong> on <strong>{{ humanize .Params.day }}</strong>
+            {{ with .Params.location }}
+             in <strong>{{ . }}</strong>
+            {{ end }}
+            </span>
+        </header>
+        <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param " text_color" | default "mid-gray" }}">
+        {{ .Content }}
+        </div>
+    </article>
+</div>
+{{ end }}

@@ -1,0 +1,83 @@
+/*Adapted from https://www.liquidlight.co.uk/blog/create-an-event-schedule-with-html-table/*/
+
+.schedule td.void {
+    width: 0;
+    padding: 0;
+    height: 6px;
+}
+
+table.schedule {
+    width: 100%;
+}
+
+.schedule tr th.minute {
+    color: #ccc;
+    font-weight: normal;
+    font-size: 1rem;
+}
+
+.schedule th,
+.schedule td {
+    padding: 0.5rem 1rem;
+}
+
+.schedule th {
+    font-weight: normal;
+    border-top: thin dotted #ccc;
+    width: 1px;
+    text-align: right;
+    vertical-align: top;
+    padding-top: 0.2rem;
+}
+
+.schedule td > a {
+    font-size: 0.8rem;
+    font-weight: bold;
+    line-height: 1.4;
+    text-decoration: none;
+    color: white;
+}
+
+.schedule td {
+    line-height: 1.4;
+    border-radius: 0.2rem;
+    width: 1000px;
+}
+
+.schedule td > a:hover {
+    color: white;
+}
+
+.schedule td > a > span {
+    font-size: 0.8em;
+    font-weight: normal;
+    display: block;
+    width: 100%;
+}
+
+.schedule td {
+    overflow: hidden;
+}
+
+.schedule td:hover {
+    box-shadow: inset 0 0 500px 500px rgba(255, 255, 255, 0.2);
+    transition: box-shadow .15s ease-in;
+}
+
+.schedule td a {
+    display: block;
+    margin: -50em;
+    padding: 50em;
+}
+
+.schedule td.activity.contestants {
+    background-color: #103149
+}
+
+.schedule td.activity.coaches {
+    background-color: #2F91D6
+}
+
+.schedule td.activity.all {
+    background-color: #216696
+}
