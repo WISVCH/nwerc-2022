@@ -8,3 +8,6 @@ width: 1
 location: Aula - Contest floor
 people: contestants
 ---
+
+During the test session, the contestants will have a change to test their workstation, and all the software they want to use.
+For the available systems, see the [Systems page]({{< relref "system" >}} "System").

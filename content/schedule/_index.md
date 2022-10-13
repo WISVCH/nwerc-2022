@@ -10,11 +10,11 @@ weight: 3
 
 This is a preliminary schedule subject to change.
 
-## Friday
+## Friday - November 25, 2022
 {{< timetable day="friday" from="14" to="21" >}}
 
-## Saturday
+## Saturday - November 26, 2022
 {{< timetable day="saturday" from="8" to="20" >}}
 
-## Sunday
+## Sunday - November 27, 2022
 {{< timetable day="sunday" from="8" to="17" >}}

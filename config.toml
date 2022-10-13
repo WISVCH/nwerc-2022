@@ -9,7 +9,7 @@ theme = "ananke"
   favicon = ""
   site_logo = "nwerc-website.svg"
   background_color_class = "bg-navy"
-  custom_css = ["background.css", "schedule.css"]
+  custom_css = ["background.css", "schedule.css", "tables.css"]
   mainSections = ['news']
 
 [sitemap]
