@@ -9,7 +9,8 @@ location: Aula
 people: all
 ---
 
-Here should be some information about who should be at the registation.
+During registration all team members and on-site coaches need to register. You will receive your badge, T-Shirt and goody bag. Also a team picture will be taken.
+
 
 ## Location
 The registration takes place in the [Aula Conference Centre](https://iamap.tudelft.nl/en/poi/aula-conference-center/).
