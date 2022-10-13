@@ -10,7 +10,7 @@ people: all
 ---
 
 ## Location
-The speech takes place in the Canteen of the [Aula Conference Centre](https://iamap.tudelft.nl/en/poi/aula-conference-center/).
+The lunch takes place in the Canteen of the [Aula Conference Centre](https://iamap.tudelft.nl/en/poi/aula-conference-center/).
 The Canteen is on the first floor.
 
 For directions, see the [Location page]({{< relref "location" >}} "Location").
