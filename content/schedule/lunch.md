@@ -1,5 +1,5 @@
 ---
-title: "Lunch"
+title: "Lunch and Company Market"
 type: event
 day: saturday
 start: 12:00
