@@ -1,18 +1,17 @@
-.sponsor {
-    width: 100%;
-}
-
-.sponsorLabel {
+.sponsor span {
     display: inline-flex;
     height: 1em;
     color: black;
     align-self: center;
+    font-weight: bold;
 }
 
-.sponsor > div {
-    padding-right: 10px;
+div.sponsor {
+    flex-flow: row wrap;
+    gap: 10px;
 }
 
-.sponsor > img {
-    max-height: 250px;
+.sponsor img {
+    margin: 50px;
+    max-width: 350px;
 }

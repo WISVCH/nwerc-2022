@@ -1,27 +1,27 @@
-<footer class="bg-white bottom-0 w-100 pa3" role="contentinfo">
-<div class="flex flex-column justify-around">
-   <img src="/sponsors/icpc.webp" alt="NWERC">
-    <div class="flex justify-between sponsor">
-        <div class="flex flex-column">
+<footer class="bg-white bottom-0 w-100" role="contentinfo">
+<div class="flex flex-column justify-around pa3 pb5">
+   <img src="/sponsors/icpc.webp" alt="NWERC" class="w-100 mw9 center">
+    <div class="flex justify-between w-100 center sponsor">
+        <div class="flex flex-column center">
             <img src="/sponsors/imc.webp" alt="IMC Trading">
-            <b class="sponsorLabel">Platinum Sponsor</b>
+            <span>Platinum Sponsor</span>
         </div>
-        <div class="flex flex-column">
+        <div class="flex flex-column center">
             <img src="/sponsors/jane-street.webp" alt="Jane Street">
-            <b class="sponsorLabel">Gold Sponsor</b>
+            <span>Gold Sponsor</span>
         </div>
-        <div class="flex flex-column">
+        <div class="flex flex-column center">
             <img src="/sponsors/netcompany.webp" alt="Netcompany">
-            <b class="sponsorLabel">Gold Sponsor</b>
+            <span>Gold Sponsor</span>
         </div>
-        <div class="flex flex-column">
+        <div class="flex flex-column center">
             <img src="/sponsors/flowtraders.webp" alt="Flowtraders">
-            <b class="sponsorLabel">Gold Sponsor</b>
+            <span>Gold Sponsor</span>
         </div>
     </div>
 </div>
-<div class="flex justify-between">
-    <a class="f4 fw4 hover-black no-underline black-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
+<div class="flex justify-between {{ .Site.Params.background_color_class | default "bg-black" }} pa3">
+    <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
         &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
     </a>
     <div>{{ partial "social-follow.html" . }}</div>
