@@ -1,0 +1,48 @@
+<!--Adapted from https://www.liquidlight.co.uk/blog/create-an-event-schedule-with-html-table/-->
+
+<table class="schedule">
+    <!-- Set the day -->
+    {{ $.Scratch.Set "day" ($.Get "day") }}
+    <!-- For every hour in from .. to -->
+    {{ range $num := (seq (.Get "from") (.Get "to")) }}
+        <!-- Set hour -->
+        {{ $.Scratch.Set "hour" . }}
+        <!-- Set minute interval -->
+        {{ $.Scratch.Set "minute interval" 5 }}
+        <!-- Set label interval -->
+        {{ $.Scratch.Set "label interval" 30 }}
+        <!-- For every minute with interval of 30 -->
+        {{ range $num := (seq 0 ($.Scratch.Get "minute interval") 59) }}
+            <!-- Make a row -->
+            <tr>
+                <td class="void"></td>
+                <!-- Set minute of the row -->
+                {{ $.Scratch.Set "minute" . }}
+                <!-- Set time of the row -->
+                {{ $.Scratch.Set "time" (print ($.Scratch.Get "hour") ":" (printf "%02d" ($.Scratch.Get "minute"))) }}
+                <!-- If the minute matches the label interval, make a label -->
+                {{ if (eq (mod ($.Scratch.Get "minute") ($.Scratch.Get "label interval")) 0) }}
+                    {{ $rowspan := (div ($.Scratch.Get "label interval") ($.Scratch.Get "minute interval")) }}
+                    <th rowspan="{{ $rowspan }}" class="{{ cond (eq ($.Scratch.Get `minute`) 0) `hour` `minute` }}">{{ $.Scratch.Get "time" }}</th>
+                {{ end }}
+                <!-- Loop over all activities -->
+                {{ range (where $.Site.Pages "Section" "schedule") }}
+                    {{ range .Pages.ByWeight }}
+                        <!-- If it is today, and at the time of this row, add the block -->
+                        {{ if and (eq .Params.day ($.Scratch.Get "day")) (eq .Params.start ($.Scratch.Get "time")) }}
+                            {{ $duration := time.ParseDuration .Params.duration }}
+                            <td colspan="{{ .Params.width }}" rowspan="{{ mul $duration.Hours (div 60 ($.Scratch.Get `minute interval`))}}" class="activity {{ .Params.people }}">
+                                <a href="{{ .RelPermalink }}">
+                                    {{ .Title }}
+                                    {{ with .Params.location}}
+                                        <span>{{ . }}</span>
+                                    {{ end }}
+                                </a>
+                            </td>
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            </tr>
+        {{ end }}
+    {{ end }}
+</table>
