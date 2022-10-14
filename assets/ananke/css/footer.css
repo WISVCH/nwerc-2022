@@ -13,5 +13,6 @@ div.sponsor {
 
 .sponsor img {
     margin: 50px;
-    max-width: 350px;
+    width: 350px;
+    max-width: calc(100% - 100px);
 }
