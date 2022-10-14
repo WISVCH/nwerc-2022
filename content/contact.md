@@ -9,7 +9,7 @@ type: page
 The organisation can be contacted at [contact@2022.nwerc.eu](mailto:contact@2022.nwerc.eu). Companies interested in supporting the contest can contact [extern@2022.nwerc.eu](mailto:extern@2022.nwerc.eu).
 
 # NWERC Coach Slack
-Since a couple of years there is a NWERC organzation slack. Coaches are invited to join [here](https://join.slack.com/t/nwerc2022/shared_invite/zt-1ggf2uot2-SVwK9k29~xfwKZaZT0Vw6Q)
+Since a couple of years there is a NWERC organisation slack. Coaches are invited to join [here](https://join.slack.com/t/nwerc2022/shared_invite/zt-1ggf2uot2-SVwK9k29~xfwKZaZT0Vw6Q)
 for quick access to the organisation for questions.
 
 # Organisation
