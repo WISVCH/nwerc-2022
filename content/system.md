@@ -83,7 +83,7 @@ Note that Python 2 is no longer supported.
 
 ## Compilation of Submissions
 
-During the contest, teams will submit proposed solutions to the contest problems to the Judges using the [DOMjudge](https://www.domjudge.org) contest control system (version 8.1). This can be done through the [web interface](https://www.domjudge.org/docs/manual/8.1/team.html#web-interface), or using the [submit client](https://www.domjudge.org/docs/manual/8.1/team.html#web-interface).
+During the contest, teams will submit proposed solutions to the contest problems to the Judges using the [DOMjudge](https://www.domjudge.org) contest control system (version 8.1). This can be done through the [web interface](https://www.domjudge.org/docs/manual/8.1/team.html#web-interface), or using the [submit client](https://www.domjudge.org/docs/manual/8.1/team.html#command-line-submit).
 Source files submitted to the Judges will be compiled using the following command line arguments for the respective language:
 
 - C:
