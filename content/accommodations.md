@@ -13,7 +13,7 @@ expensive and are easy to travel from to the campus.
   * Cost: 60-95 euros per night per person
   * Breakfast is possible for 25 euros
   * 20 minutes walk or 5 minutes by bus to contest location
-  * Next to Delft station: Van Leeuwenhoekpark 1 2611 DW Delft
+  * Next to Delft station: Van Leeuwenhoekpark 1, 2611 DW Delft
   * More information: [https://www.thestudenthotel.com/delft/](https://www.thestudenthotel.com/delft/)
 * Hotel Royal Bridges
   * Cost: 60-110 euros per night per person
@@ -25,7 +25,7 @@ expensive and are easy to travel from to the campus.
   * Cost: 65-85 euros per night per person
   * Breakfast possible for 13 euros
   * 20 minutes walk or 5 minutes by bus to contest location
-  * Next to Delft station: Van Leeuwenhoekpark 2 2611DW Delft
+  * Next to Delft station: Van Leeuwenhoekpark 2, 2611 DW Delft
   * More information: [https://www.ibisstylesdelftcity.nl/en/](https://www.ibisstylesdelftcity.nl/en/)
 * Hotel de Koophandel
   * Cost: 60-100 euros per night per person
