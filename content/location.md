@@ -28,7 +28,8 @@ Delft has two train stations:
 * **Delft Campus**, connecting only on sprinter-lines, it provides no bus connections, but it is closer to the contest site on foot.
 Planning your trip is possible from the website of the [Dutch Railways](https://www.ns.nl/en/travel-information).
 
-Bus lines 40, 55, 174 and 69 (only on weekdays) stop very close to the contest site by bus stop Aula TU. Bus tickets can be bought in the bus with Debit Card only.
+Bus lines 40 (weekdays only), 69 (weekdays only), 174 (weekdays only), and 455 (every day) stop very close to the contest site by bus stop Aula TU.
+Bus tickets can be bought in the bus with Debit Card only.
 
 ## To the Netherlands by airplane
 There are two airports close by to Delft.
