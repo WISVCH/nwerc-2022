@@ -71,9 +71,11 @@ The following languages are allowed during the contest:
 - Java
     - Version: 17.0.4
 - C
-    - Version: 11.2.0
+    - Compiler version: 11.2.0
+    - Standard: gnu17
 - C++
-    - Version: 11.2.0
+    - Compiler version: 11.2.0
+    - Standard: gnu++20
 - Python
     - Version: PyPy 7.3.9 (Python 3.8.13)
 - Kotlin
@@ -87,10 +89,10 @@ During the contest, teams will submit proposed solutions to the contest problems
 Source files submitted to the Judges will be compiled using the following command line arguments for the respective language:
 
 - C:
-    - `gcc -x c -Wall -O2 -static -pipe -o $1 "$1.c" -lm`
+    - `gcc -std=gnu17 -x c -Wall -O2 -static -pipe -o $1 "$1.c" -lm`
     - Available as `mygcc`
 - C++:
-    - `gcc -x c++ -Wall -O2 -static -pipe -o $1 "$1.cpp" -lm`
+    - `g++ -std=gnu++20 -x c++ -Wall -O2 -static -pipe -o $1 "$1.cpp" -lm`
     - Available as `mygpp`
 - Java:
     - `javac -encoding UTF-8 -sourcepath . -d . $@`
