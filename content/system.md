@@ -68,8 +68,6 @@ The software configuration will consist of the following:
 
 The following languages are allowed during the contest:
 
-- Java
-    - Version: 17.0.4
 - C
     - Compiler version: 11.2.0
     - Standard: gnu17
@@ -78,6 +76,8 @@ The following languages are allowed during the contest:
     - Standard: gnu++20
 - Python
     - Version: PyPy 7.3.9 (Python 3.8.13)
+- Java
+    - Version: 17.0.4
 - Kotlin
     - Version: 1.6.0
 
@@ -94,12 +94,12 @@ Source files submitted to the Judges will be compiled using the following comman
 - C++:
     - `g++ -std=gnu++20 -x c++ -Wall -O2 -static -pipe -o $1 "$1.cpp" -lm`
     - Available as `mygpp`
-- Java:
-    - `javac -encoding UTF-8 -sourcepath . -d . $@`
-    - Available as `myjavac`
 - Python 3:
     - `pypy3 $@`
     - Available as `mypython`
+- Java:
+    - `javac -encoding UTF-8 -sourcepath . -d . $@`
+    - Available as `myjavac`
 - Kotlin:
     - `kotlinc -d . $@`
     - Available as `mykotlinc`
