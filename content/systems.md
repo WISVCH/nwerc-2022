@@ -120,9 +120,10 @@ Source files submitted to the Judges will be compiled using the following comman
 Compilation and execution as described above will take place in a “sandbox” on a dedicated judging machine.
 The judging machine will be as identical as possible to, and at least as powerful as, the machines used by teams.
 
-[//]: # (The sandbox will allocate 2GB of memory; the entire program, including its runtime environment, must execute within this memory limit.)
-For interpreted languages (Java, Python, and Kotlin) the runtime environment includes the interpreter (that is, the JVM for Java/Kotlin and the Python interpreter for Python).
-The sandbox memory allocation size will be the same for all languages and all contest problems.  For Java and Kotlin, the above commands show the stack size and heap size settings that will be used when the program is run in the sandbox.
+The sandbox will allocate 2 GiB of memory; the entire program, including its runtime environment, must execute within this memory limit.
+For interpreted languages (Python, Java, and Kotlin) the runtime environment includes the interpreter (that is, the PyPy3 interpreter for Python and the JVM for Java/Kotlin).
+The sandbox memory allocation size will be the same for all languages and all contest problems.
+For Java and Kotlin, the above commands show the stack size and heap size settings that will be used when the program is run in the sandbox.
 
 ## Documentation / Specification / Reference material
 The following reference materials will be available on the teams' workstations through the browser:
