@@ -34,5 +34,12 @@ expensive and are easy to travel from to the campus.
   * In city centre: Beestenmarkt 30, 2611 GC Delft
   * More information: [https://www.hoteldekoophandel.nl/en/](https://www.hoteldekoophandel.nl/en/)
 
-We will probably also offer the possibility to sleep on campus in a gym hall. More
-information on this will follow.
+# Sleeping at TU Delft Campus
+
+We provide free 150 sleeping places at the TU Delft Campus in a sport hall. This requires you to bring your own sleeping
+bags and breakfast. You will be able to shower on the site. Sleeping is possible on the following dates:
+
+* Friday on Saturday:   from 00:00 until 07:00
+* Saturday on Sunday: from 22:00 until 07:00
+
+We have room for 150 people, based on first come, first served. To register please fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSfh7WRnkkX405KZ4eeHrAWUpjRpMi2tXA8jiD9VkIUoaAA7IA/viewform?usp=sf_link).
