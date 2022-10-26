@@ -13,8 +13,7 @@ In addition to the offical ICPC regional Rules, the following local rules also a
 A student may compete when eligible according to the [official ICPC regional rules](https://icpc.global/regionals/rules) summarized in the [2022 ICPC Regionals Eligibility Diagram](https://drive.google.com/file/d/1Gt0gh7e9ubSZOr1ZpZ3liU1g0__fPzg1/view).
 
 * A team consists of 3 eligible students.
-* An educational institution may send up to two teams.
-* The educational institutions must be from one of the region member countries. By special request teams from other countries may be allowed to participate in this region, as stated in the ICPC Regional Rules.
+* The educational institutions must be from one of the region's member countries. By special request, teams from other countries may be allowed to participate in this region, as stated in the ICPC Regional Rules.
 * All teams who want to participate must be registered.
 
 ### Special Rules for NWERC 2022
