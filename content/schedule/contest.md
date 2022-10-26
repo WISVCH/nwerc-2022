@@ -12,4 +12,4 @@ weight: 10
 
 The contest will take 5 hours, with a score freeze at 14:00.
 
-For the available systems during the contest, see the [Systems page]({{< relref "system" >}} "System").
+For the available systems during the contest, see the [Systems page]({{< relref "systems" >}} "Systems").
