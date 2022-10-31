@@ -4,7 +4,7 @@ weight: 6
 draft: false
 menu:
   main:
-    name: Hints
+    name: Jury Advice
 parent: rules
 type: page
 ---

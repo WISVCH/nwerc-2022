@@ -6,4 +6,4 @@ draft: false
 The NWERC Jury have prepared a document containing advice and hints on understanding the problem format.
 It also contains general information on how submissions are judged during a contest,
 as well as tips about interactive problems.
-It can be found under [Hints](/hints) in the top menu.
+It can be found under [Jury Advice](/jury-advice) in the top menu.
