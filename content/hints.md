@@ -10,7 +10,7 @@ type: page
 ---
 
 - Your submissions will be run multiple times,
-  on several different input files.
+  on different input files.
   The order in which the input files are being used is fixed
   and does not change from one submission to another.
 
