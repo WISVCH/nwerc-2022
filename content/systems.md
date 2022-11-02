@@ -12,6 +12,14 @@ Each team will be provided with one laptop, shared between team members.
 Each laptop will have an external mouse.
 The configuration of each laptop will be as follows:
 
+## Hardware
+
+The laptop will be an HP ProBook 650 G5 and will have the following hardware specifications:
+- Intel Core i5 8265U Processor
+    - 4 cores, 8 threads
+    - Maximum frequency of 3.9GHz
+- 8GB of RAM
+
 ## Software
 
 The software configuration will consist of the following:
