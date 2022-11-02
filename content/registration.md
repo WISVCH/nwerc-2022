@@ -2,10 +2,9 @@
 title: "Registration"
 weight: 4
 draft: false
-menu: main
 type: page
 ---
-
+**Update: Registration is now closed.**
 
 Registration will open at the 1st of October and will close on the 3rd of November. Registration will be done through
 the [ICPC system](https://icpc.global/regionals/finder/northwestern-europe-2022).

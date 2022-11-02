@@ -4,6 +4,9 @@ languageCode = 'en-us'
 title = 'NWERC 2022'
 theme = "ananke"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 
 [params]
   favicon = ""
