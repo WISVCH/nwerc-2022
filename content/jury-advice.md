@@ -125,3 +125,5 @@ input and output are meant to be the easiest parts of the problems!
   and a verdict of "Run Time Error" means
   that your submission returned a non-zero exit code.
   If your submission does both, you may get either verdict.
+
+{{< mathjax >}}
