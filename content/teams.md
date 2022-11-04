@@ -19,7 +19,7 @@ The following teams are competing in NWERC 2022.
 | ![U-8170] | <ul><li>Hexaflexagons</li><li>Seems to be O(k!)</li></ul> |
 | Heinrich Heine University Dusseldorf | <ul><li>Kleinsche Flaschen</li><li>HHU Runtime Terror</li></ul> |
 | ![U-14277] | <ul><li>Pie-Oh-Near</li></ul> |
-| Hogeschool Leiden | <ul><li>SExon;</li></ul> |
+| ![U-7019] | <ul><li>SExon;</li></ul> |
 | ![U-3678] | <ul><li>IMPostors</li><li>Box Street</li><li>Anonymous Sigmaz</li></ul> |
 | ![U-6864] | <ul><li>We’re just here for the balloons</li><li>~ Python Pirates</li><li>Ctrl Alt Elite</li></ul> |
 | ![U-18106] | <ul><li>Jacobs Rules</li><li>chill club</li><li>skibidi wa4 pa</li><li>Team 4</li><li>Team 5</li></ul> |
@@ -35,7 +35,7 @@ The following teams are competing in NWERC 2022.
 | ![U-1534] | <ul><li>Balloon Addicts, Passionate Coders</li><li>Rodina</li><li>The Pool Party</li><li>3Guys1Segfault</li></ul> |
 | ![U-3787] | <ul><li>Ich hab studiert</li><li>Leberkäs</li></ul> |
 | ![U-2267] | <ul><li>⊛˯⛒</li><li>Reihe 12 <(òvó)></li><li>ƟvƟ</li></ul> |
-| Tallinn University of Technology | <ul><li>fft enthusiasts</li><li>Segfault: SyntaxError</li></ul> |
+| ![U-11054] | <ul><li>fft enthusiasts</li><li>Segfault: SyntaxError</li></ul> |
 | ![U-4278] | <ul><li>The floor is made of Java</li><li>Lord of the Graphs</li></ul> |
 | ![U-1917] | <ul><li>Expecto PatroTUM</li><li>Eeylops Owl EmporiTUM</li><li>Avada TUMavra</li><li>LonglongbotTUM</li></ul> |
 | ![U-2061] | <ul><li>Three Lost Physicists</li></ul> |
@@ -46,14 +46,14 @@ The following teams are competing in NWERC 2022.
 | ![U-8311] | <ul><li>CPUMONS</li></ul> |
 | ![U-2284] | <ul><li>🇺🇳🇮🇨🇴🇩🇪</li><li>mc</li><li>sop</li><li>Vetter et al.</li><li>Ja, Maar to the Max</li></ul> |
 | ![U-18633] | <ul><li>UNInstAll</li></ul> |
-| University of Bath | <ul><li>Dori-NWERC</li><li>Fili-NWERC</li></ul> |
+| ![U-5541] | <ul><li>Dori-NWERC</li><li>Fili-NWERC</li></ul> |
 | ![U-2320] | <ul><li>\u1f0c\u03bb\u03b3\u03bf\u03c2</li><li>Miniputters</li></ul> |
-| University of Bristol | <ul><li>4th party cookies</li></ul> |
+| ![U-8317] | <ul><li>4th party cookies</li></ul> |
 | ![U-2343] | <ul><li>WHATEVER >~<</li><li>Drzewiec</li><li>TrinOI</li><li>Trinity's Trinity</li><li>Holland King</li></ul> |
 | ![U-2357] | <ul><li>The Balloon Animals</li><li>Grape</li><li>scream&cout</li></ul> |
 | ![U-5784] | <ul><li>p(r)ogg(ram)ers</li><li>one more try</li></ul> |
-| University of Glasgow | <ul><li>Team 47 once again</li></ul> |
-| University of Göttingen | <ul><li>GAU1</li><li>GAU2</li></ul> |
+| ![U-6940] | <ul><li>Team 47 once again</li></ul> |
+| ![U-7264] | <ul><li>GAU1</li><li>GAU2</li></ul> |
 | ![U-3330] | <ul><li>Keksi Fan Club</li></ul> |
 | ![U-7887] | <ul><li>f slanga strik</li></ul> |
 | ![U-13859] | <ul><li>NoobCoders</li><li>Black Box</li><li>your local bruh moment dealers</li></ul> |
@@ -64,7 +64,7 @@ The following teams are competing in NWERC 2022.
 | ![U-8102] | <ul><li>UPgreat</li></ul> |
 | ![U-6859] | <ul><li>The House Crew</li><li>Mariens</li></ul> |
 | ![U-2526] | <ul><li>KalaPüügiSeadus</li><li>Bubblegum Bitset</li></ul> |
-| University of Warwick | <ul><li>Team W</li><li>The Error Addicts</li></ul> |
+| ![U-6929] | <ul><li>Team W</li><li>The Error Addicts</li></ul> |
 | ![U-2625] | <ul><li>IT giet oan</li><li>Crystal Math 3.0</li><li>Kerrie vlek</li><li>Team biem</li></ul> |
 | ![U-7477] | <ul><li>VILNIUS TECH 1</li><li>VILNIUS TECH 2</li><li>SAD Team</li></ul> |
 | ![U-2643] | <ul><li>#define true rand</li><li>Hope It Passes</li></ul> |
@@ -72,11 +72,13 @@ The following teams are competing in NWERC 2022.
 
 
 [U-7]: /logo/U-7.png "Aarhus University"
-[U-3546]: /logo/U-3546.png "Ghent University"
+[U-290]: /logo/U-290.png "Christian-Albrechts-Universitaet zu Kiel"
+[U-362]: /logo/U-362.png "Darmstadt University of Technology"
 [U-367]: /logo/U-367.png "Delft University of Technology"
 [U-452]: /logo/U-452.png "Eindhoven University of Technology"
 [U-573]: /logo/U-573.png "Friedrich-Alexander-University Erlangen-Nuremberg"
 [U-980]: /logo/U-980.png "Kaunas University of Technology"
+[U-1039]: /logo/U-1039.png "KTH - Royal Institute of Technology"
 [U-1088]: /logo/U-1088.png "Leiden University"
 [U-1097]: /logo/U-1097.png "Linköping University"
 [U-1112]: /logo/U-1112.png "Lund University"
@@ -100,7 +102,8 @@ The following teams are competing in NWERC 2022.
 [U-2664]: /logo/U-2664.png "Vrije Universiteit"
 [U-3330]: /logo/U-3330.png "University of Helsinki"
 [U-3397]: /logo/U-3397.png "Chalmers University of Technology"
-[U-3403]: /logo/U-3403.png "Reykjavik University "
+[U-3403]: /logo/U-3403.png "Reykjavik University"
+[U-3546]: /logo/U-3546.png "Ghent University"
 [U-3620]: /logo/U-3620.png "University of Oxford"
 [U-3678]: /logo/U-3678.png "Imperial College London"
 [U-3749]: /logo/U-3749.png "University of Nottingham"
@@ -111,6 +114,9 @@ The following teams are competing in NWERC 2022.
 [U-5541]: /logo/U-5541.png "University of Bath"
 [U-5737]: /logo/U-5737.png "University of Manchester"
 [U-5784]: /logo/U-5784.png "University of Edinburgh"
+[U-6026]: /logo/U-6026.png "Molde University College"
+[U-6557]: /logo/U-6557.png "Frankfurt University of Applied Sciences"
+[U-6638]: /logo/U-6638.png "German University of Technology in Oman"
 [U-6859]: /logo/U-6859.png "University of Southampton"
 [U-6864]: /logo/U-6864.png "IT University of Copenhagen"
 [U-6929]: /logo/U-6929.png "University of Warwick"
@@ -120,6 +126,7 @@ The following teams are competing in NWERC 2022.
 [U-7464]: /logo/U-7464.png "Brunel University London"
 [U-7477]: /logo/U-7477.png "Vilnius Gediminas Technical University"
 [U-7887]: /logo/U-7887.png "University of Iceland"
+[U-7950]: /logo/U-7950.png "University of Birmingham"
 [U-8002]: /logo/U-8002.png "Radboud University"
 [U-8102]: /logo/U-8102.png "University of Passau"
 [U-8170]: /logo/U-8170.png "Hasso Plattner Institute"
