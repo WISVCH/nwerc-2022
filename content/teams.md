@@ -17,7 +17,7 @@ The following teams are competing in NWERC 2022.
 | ![U-573] | <ul><li>Fully Autonomous Unicycle</li><li>Fully Autonomous Unicorns</li></ul> |
 | ![U-3546] | <ul><li>heap heap hoera</li></ul> |
 | ![U-8170] | <ul><li>Hexaflexagons</li><li>Seems to be O(k!)</li></ul> |
-| Heinrich Heine University Dusseldorf | <ul><li>Kleinsche Flaschen</li><li>HHU Runtime Terror</li></ul> |
+| ![U-HHUD] | <ul><li>Kleinsche Flaschen</li><li>HHU Runtime Terror</li></ul> |
 | ![U-14277] | <ul><li>Pie-Oh-Near</li></ul> |
 | ![U-7019] | <ul><li>SExon;</li></ul> |
 | ![U-3678] | <ul><li>IMPostors</li><li>Box Street</li><li>Anonymous Sigmaz</li></ul> |
@@ -138,3 +138,4 @@ The following teams are competing in NWERC 2022.
 [U-14277]: /logo/U-14277.png "Hochschule für angewandte Wissenschaften Würzburg-Schweinfurt"
 [U-18106]: /logo/U-18106.png "Jacobs University in Bremen"
 [U-18633]: /logo/U-18633.png "University of Augsburg"
+[U-HHUD]: /logo/U-HHUD.png "Heinrich Heine University Düsseldorf"
