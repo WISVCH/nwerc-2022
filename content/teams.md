@@ -49,7 +49,7 @@ The following teams are competing in NWERC 2022.
 | ![U-5541] | <ul><li>Dori-NWERC</li><li>Fili-NWERC</li></ul> |
 | ![U-2320] | <ul><li>\u1f0c\u03bb\u03b3\u03bf\u03c2</li><li>Miniputters</li></ul> |
 | ![U-8317] | <ul><li>4th party cookies</li></ul> |
-| ![U-2343] | <ul><li>WHATEVER >~<</li><li>Drzewiec</li><li>TrinOI</li><li>Trinity's Trinity</li><li>Holland King</li></ul> |
+| ![U-2343] | <ul><li>WHATEVER >~<</li><li>Drzewiec</li><li>anonymous squids</li><li>Trinity's Trinity</li><li>Holland King</li></ul> |
 | ![U-2357] | <ul><li>The Balloon Animals</li><li>Grape</li><li>scream&cout</li></ul> |
 | ![U-5784] | <ul><li>p(r)ogg(ram)ers</li><li>one more try</li></ul> |
 | ![U-6940] | <ul><li>Team 47 once again</li></ul> |
