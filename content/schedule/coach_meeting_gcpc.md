@@ -9,7 +9,7 @@ location: Aula - Lecture Hall D
 people: German coaches
 ---
 ## Location
-The NCPC coach meeting takes place in the Auditorium of the [Aula Conference Centre](https://iamap.tudelft.nl/en/poi/aula-conference-center/).
+The GCPC coach meeting takes place in the Auditorium of the [Aula Conference Centre](https://iamap.tudelft.nl/en/poi/aula-conference-center/).
 The entrance of the hall D is indicated on the signs.
 
 For directions, see the [Location page]({{< relref "location" >}} "Location").
