@@ -10,6 +10,6 @@ people: coaches from Benelux area
 ---
 ## Location
 The BAPC coach meeting takes place in the Auditorium of the [Aula Conference Centre](https://iamap.tudelft.nl/en/poi/aula-conference-center/).
-The entrance of the hall D is indicated on the signs.
+The entrance of hall D is indicated on the signs.
 
 For directions, see the [Location page]({{< relref "location" >}} "Location").
