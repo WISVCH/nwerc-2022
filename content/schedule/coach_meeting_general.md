@@ -4,7 +4,7 @@ type: event
 day: sunday
 start: 13:30
 duration: 1h30m
-width: 1
+width: 2
 location: Aula - Auditorium
 people: coaches
 ---

@@ -4,7 +4,7 @@ type: event
 day: sunday
 start: 9:00
 duration: 0h45m
-width: 2
+width: 3
 location: Aula - Auditorium
 people: all
 ---
