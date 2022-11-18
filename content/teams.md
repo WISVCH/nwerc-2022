@@ -5,7 +5,7 @@ draft: false
 type: page
 menu: main
 ---
-The following teams are competing in NWERC 2022. The numbers in brackets represent the location of the team work station.
+The following teams are competing in NWERC 2022. The numbers in parentheses represent the location of the team's workstation.
 
 |            |                                                                                                                                                              |
 |:----------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
