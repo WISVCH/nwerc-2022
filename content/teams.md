@@ -30,7 +30,7 @@ The following teams are competing in NWERC 2022. The numbers in parentheses repr
 | ![U-1039]  | <ul><li>CyanForces\-\-? (75)</li></ul>                                                                                                                       |
 | ![U-1088]  | <ul><li>Plopkoek (52)</li><li>Contra Spem Spero (96)</li><li>0b10101 (136)</li></ul>                                                                         |
 | ![U-1097]  | <ul><li>Dal Dal Doma (58)</li><li>Gecko Kickers (108)</li></ul>                                                                                              |
-| ![U-1112]  | <ul><li>ezcp (23)</li><li>Noobs@LTH (143)</li><li>ECON 101 (95)</li></ul>                                                                                    |
+| ![U-1112]  | <ul><li>ezcp (23)</li><li>Noobs@LTH (142)</li><li>ECON 101 (95)</li></ul>                                                                                    |
 | ![U-1362]  | <ul><li>proggecribben (33)</li><li>icpC++ (113)</li></ul>                                                                                                    |
 | ![U-8002]  | <ul><li>Reckless Raccoons (21)</li><li>Bidoof Aron Piplup Cyndaquil (13)</li><li>Reduce all the things (114)</li></ul>                                       |
 | ![U-3403]  | <ul><li>Hakk og Spaghetti (64)</li></ul>                                                                                                                     |
