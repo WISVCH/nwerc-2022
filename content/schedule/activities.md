@@ -8,9 +8,9 @@ duration: 3h30m
 width: 2
 people: all
 ---
-Registration for an activity is possible through the form which can be found in the last information e-mail.
+Registration for an activity is possible through the form which can be found in the last information e-mail that was sent out on Tuesday the 22nd of November.
 
-The following excursions are available for the 26th of November. There are limited capacities for each activity, so  **full = full**. For the canal tours, it is important to be **on time** at the boat location as the tour boat will leave on time. NB: choosing an activity is optional, you are also free to use the activity afternoon as you see fit and thus not fill in this form.
+There are limited capacities for each activity, so  **full = full**. For the canal tours, it is important to be **on time** at the boat location as the tour boat will leave on time. NB: choosing an activity is optional, you are also free to use the activity afternoon as you see fit and thus not fill in this form.
 
   
 The following options are available (you can choose only one):
