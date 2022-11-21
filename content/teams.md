@@ -23,7 +23,7 @@ The following teams are competing in NWERC 2022. The numbers in parentheses repr
 | ![U-7019]  | <ul><li>SExon; (68)</li></ul>                                                                                                                                |
 | ![U-3678]  | <ul><li>IMPostors (14)</li><li>Box Street (55)</li><li>Anonymous Sigmaz (97)</li></ul>                                                                       |
 | ![U-6864]  | <ul><li>We’re just here for the balloons (66)</li><li>~ Python Pirates (88)</li><li>Ctrl Alt Elite (149)</li></ul>                                           |
-| ![U-18106] | <ul><li>Jacobs Rules (53)</li><li>chill club (83)</li><li>skibidi wa4 pa (102)</li><li>Looking for a job (122)</li><li>Team 5 (145)</li></ul>                |
+| ![U-18106] | <ul><li>Jacobs Rules (53)</li><li>chill club (83)</li><li>skibidi wa4 pa (102)</li><li>Looking for a job (122)</li><li>NeSheZa (145)</li></ul>               |
 | ![U-2272]  | <ul><li>Tzatzikitartare (1)</li><li>Kindergarten Timelimit (65)</li><li>Exploding KITtens (98)</li></ul>                                                     |
 |  ![U-980]  | <ul><li>KTU#1 (50)</li><li>KTU#2 (104)</li></ul>                                                                                                             |
 | ![U-3758]  | <ul><li>Lille Skutt (106)</li></ul>                                                                                                                          |
