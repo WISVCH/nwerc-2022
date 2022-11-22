@@ -5,7 +5,7 @@ day: sunday
 start: 12:15
 duration: 1h15m
 width: 1
-location: Aula - Lecture Hall D
+location: Aula - Lecture Hall B
 people: coaches from Benelux area
 ---
 ## Location

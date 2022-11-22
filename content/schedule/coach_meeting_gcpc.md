@@ -5,7 +5,7 @@ day: sunday
 start: 11:00
 duration: 1h15m
 width: 1
-location: Aula - Lecture Hall D
+location: Aula - Lecture Hall B
 people: German coaches
 ---
 ## Location

@@ -5,7 +5,7 @@ day: sunday
 start: 11:00
 duration: 1h15m
 width: 1
-location: Aula - Lecture Hall C
+location: Aula - Lecture Hall A
 people: UK and Ireland coaches
 ---
 ## Location
