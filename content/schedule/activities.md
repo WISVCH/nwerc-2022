@@ -58,10 +58,25 @@ You will visit the local Delft brewery '[de Koperen Kat](https://www.dekoperenka
 
 At the  [contest venue](https://iamap.tudelft.nl/en/poi/aula-conference-center/), Jetbrains will host a workshop.
 
+_> How and why to become ICPC World Champion (Pavel Kunyavskiy, 2014 ICPC World Champion)_  
+
+_I'll try to share some personal experience on the non-technical part of the ICPC competitions, and why competing in them can be useful for your future._
+
+_> JetBrains Internship (Maria Andreeva, Project Coordinator in Internships)_
+
+_> JetBrains (and) Research (Anton Podkopaev, Head of Programming Languages and Tools lab @ JetBrains Research)_
+
+_From time to time, industry needs academic research, and not all of it happens in universities. In this talk, we will chat about JetBrains Research, which does both applied and fundamental research in Computer Science, how it helps to make JetBrains products better and why it is essential for JetBrains' educational projects._
+
   ---
 
 -   Huawei Workshop
 
 At the [contest venue](https://iamap.tudelft.nl/en/poi/aula-conference-center/), Huawei will host a workshop.
+
+_Cruel World of Concurrent Beasts -- Concurrency Challenges in System Software, by speaker Diogo Behrens._
+_To take most performance out of the modern CPUs, developers have to make their algorithms aware of hardware peculiarities, such as caches, cores, etc. That greatly complicates implementations. As a developer, one has to face the dilemma between easy reasoning and best performance. In this talk, we will review challenges often neglected in university courses: concurrency, weak memory models, and NUMA domains. My goal is to raise your awareness to these issues and motivate you to think on how to tackle them in your future career._ 
+
+_We provide the prize at Q&A session for the wonderful answers: Huawei Freebuds!_
 
 ---
