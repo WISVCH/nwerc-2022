@@ -68,7 +68,7 @@ The following teams are competing in NWERC 2022. The numbers in parentheses repr
 | ![U-2526]  | <ul><li>KalaPüügiSeadus (107)</li><li>Bubblegum Bitset (19)</li></ul>                                                                                        |
 | ![U-6929]  | <ul><li>Team W (28)</li><li>The Error Addicts (71)</li></ul>                                                                                                 |
 | ![U-2625]  | <ul><li>IT giet oan (17)</li><li>Crystal Math 3.0 (86)</li><li>Kerrie vlek (109)</li><li>Team biem (144)</li></ul>                                           |
-| ![U-7477]  | <ul><li>VILNIUS TECH 1 (79)</li><li>VILNIUS TECH 2 (133)</li><li>SAD Team (92)</li></ul>                                                                     |
+| ![U-7477]  | <ul><li>peepoPoo (79)</li><li>Happy Team (133)</li><li>SAD Team (92)</li></ul>                                                                               |
 | ![U-2643]  | <ul><li>#define true rand (7)</li><li>Hope It Passes (125)</li></ul>                                                                                         |
 | ![U-2664]  | <ul><li>PPAP (77)</li><li>Monki IQ 200 (combined) (101)</li><li>std::string name = getTeamName(); (11)</li></ul>                                             |
 
