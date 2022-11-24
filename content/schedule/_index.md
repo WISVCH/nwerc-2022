@@ -8,8 +8,6 @@ type: page
 weight: 3
 ---
 
-This is a preliminary schedule subject to change.
-
 ## Friday - November 25, 2022
 {{< timetable day="friday" from="14" to="21" >}}
 
