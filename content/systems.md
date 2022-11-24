@@ -6,7 +6,6 @@ menu: main
 ---
 
 This page describes current plans for the Programming Environment which will be available to each NWERC 2022 team.
-**Please note that these plans are subject to change.**
 
 Each team will be provided with one laptop, shared between team members.
 Each laptop will have an external mouse.
