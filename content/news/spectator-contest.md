@@ -1,5 +1,5 @@
 ---
-title: "Livestream URLs"
+title: "Spectator contest"
 date: 2022-11-24T09:00:00+01:00
 draft: false
 ---
