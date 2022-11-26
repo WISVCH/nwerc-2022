@@ -17,7 +17,8 @@ The 2022 edition of the Northwestern European Regional Contest (NWERC) will be h
 
 ## Contest material
 
-- TODO: add live scoreboard and mirror contest here
+- [Live Scoreboard](https://dj.nwerc.eu/)
+- [Spectator Contest](https://spectator.nwerc.eu/)
 - [Contest Livestream](https://youtu.be/aDsW8J8P7go)
 - [Award Ceremony Livestream](https://youtu.be/nbr_v73cvfQ)
 
@@ -27,7 +28,11 @@ The 2022 edition of the Northwestern European Regional Contest (NWERC) will be h
 
 ## Test session material
 
-- [Live Scoreboard](https://dj.nwerc.eu/)
+- [Final Standings](/test-session/scoreboard)
+- [Proglem Set (pdf)](/test-session/contest-test-session.pdf)
+- [Problem Slides (pdf)](/test-session/problem-slides-test-session.pdf)
+- [Solution Slides (pdf)](/test-session/solutions-test-session.pdf)
+- [Packaged Problems (.zip, 8.3MB)](/test-session/solutions-test-session.zip)
 - [Opening Ceremony Livestream](https://youtu.be/nvOgM5o3uMk)
 - [Test Session and Team Interviews Livestream](https://youtu.be/33Yw_kqgUGQ)
 
