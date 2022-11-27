@@ -12,7 +12,6 @@ The Northwestern Europe Regional Contest (NWERC) is a contest in which teams fro
 The 2022 edition of the Northwestern European Regional Contest (NWERC) will be held on the 25th of November until the 27th of November 2022. The contest will be held on the campus of the Delft University of Technology.
 
 {{% row %}}
-<!--
 {{% column %}}
 
 ## Contest material
@@ -23,7 +22,6 @@ The 2022 edition of the Northwestern European Regional Contest (NWERC) will be h
 - [Award Ceremony Livestream](https://youtu.be/nbr_v73cvfQ)
 
 {{% /column %}}
--->
 {{% column %}}
 
 ## Test session material
