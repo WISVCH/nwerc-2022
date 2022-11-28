@@ -16,8 +16,11 @@ The 2022 edition of the Northwestern European Regional Contest (NWERC) will be h
 
 ## Contest material
 
-- [Live Scoreboard](https://dj.nwerc.eu/)
-- [Spectator Contest](https://spectator.nwerc.eu/)
+- [Final Standings](/main/scoreboard) ([Spectators](/main/scoreboard/spectators.html))
+- [Proglem Set (pdf)](/main/contest-main.pdf)
+- [Problem Slides (pdf)](/main/problem-slides-main.pdf)
+- [Solution Slides (pdf)](/main/solutions-main.pdf)
+- Packaged Problems (coming soon, .zip, 465MB)
 - [Contest Livestream](https://youtu.be/aDsW8J8P7go)
 - [Award Ceremony Livestream](https://youtu.be/nbr_v73cvfQ)
 
