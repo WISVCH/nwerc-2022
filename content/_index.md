@@ -17,10 +17,10 @@ The 2022 edition of the Northwestern European Regional Contest (NWERC) will be h
 ## Contest material
 
 - [Final Standings](/main/scoreboard) ([Spectators](/main/scoreboard/spectators.html))
-- [Proglem Set (pdf)](/main/contest-main.pdf)
-- [Problem Slides (pdf)](/main/problem-slides-main.pdf)
-- [Solution Slides (pdf)](/main/solutions-main.pdf)
 - Packaged Problems (coming soon, .zip, 465MB)
+- [Problem Set (pdf)](/main/problem-set.pdf)
+- [Problem Slides (pdf)](/main/problem-slides.pdf)
+- [Solution Slides (pdf)](/main/solutions.pdf)
 - [Contest Livestream](https://youtu.be/aDsW8J8P7go)
 - [Award Ceremony Livestream](https://youtu.be/nbr_v73cvfQ)
 
@@ -30,10 +30,10 @@ The 2022 edition of the Northwestern European Regional Contest (NWERC) will be h
 ## Test session material
 
 - [Final Standings](/test-session/scoreboard)
-- [Proglem Set (pdf)](/test-session/contest-test-session.pdf)
-- [Problem Slides (pdf)](/test-session/problem-slides-test-session.pdf)
-- [Solution Slides (pdf)](/test-session/solutions-test-session.pdf)
-- [Packaged Problems (.zip, 8.3MB)](/test-session/solutions-test-session.zip)
+- [Problem Set (pdf)](/test-session/problem-set.pdf)
+- [Problem Slides (pdf)](/test-session/problem-slides.pdf)
+- [Solution Slides (pdf)](/test-session/solutions.pdf)
+- [Packaged Problems (.zip, 8.3MB)](/test-session/solutions.zip)
 - [Opening Ceremony Livestream](https://youtu.be/nvOgM5o3uMk)
 - [Test Session and Team Interviews Livestream](https://youtu.be/33Yw_kqgUGQ)
 
