@@ -15,7 +15,7 @@ The 2022 edition of the Northwestern European Regional Contest (NWERC) will be h
 {{% column %}}
 
 ## Contest material
-
+- [Programme Booklet (pdf)](/programme-booklet.pdf)
 - [Final Standings](/main/scoreboard) ([Spectators](/main/scoreboard/spectators.html))
 - [Problem Set (pdf)](/main/problem-set.pdf)
 - [Problem Slides (pdf)](/main/problem-slides.pdf)
