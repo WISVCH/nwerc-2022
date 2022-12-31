@@ -76,7 +76,7 @@ input and output are meant to be the easiest parts of the problems!
   we generally only require that your output is correct
   up to a certain absolute or relative error.
   In the case that both are specified, the largest of the two applies.
-  For example, if the problem statement requests a
+  For example, if the problem statement requests an
   "absolute or relative error of at most $10^{-6}$", this means that:
 
   - If the correct answer is $0.005$, any answer between $0.004999$ and $0.005001$ will be accepted.  
