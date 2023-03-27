@@ -21,7 +21,7 @@ The 2022 edition of the Northwestern European Regional Contest (NWERC) was held 
 - [Problem Set (pdf)](/main/problem-set.pdf)
 - [Problem Slides (pdf)](/main/problem-slides.pdf)
 - [Solution Slides (pdf)](/main/solutions.pdf)
-- [Packaged Problems (.zip, 464MB)](https://commissies.ch.tudelft.nl/chipcie/archive/2022/nwerc/solutions.zip)
+- [Packaged Problems (.zip, 464MB)](https://chipcie.wisv.ch/archive/2022/nwerc/solutions.zip)
 - [Contest Livestream](https://youtu.be/aDsW8J8P7go)
 - [Award Ceremony Livestream](https://youtu.be/nbr_v73cvfQ)
 
