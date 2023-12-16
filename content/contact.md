@@ -17,25 +17,22 @@ The NWERC 2022 is hosted by the [Delft University of Technology](https://www.tud
 
 # CHipCie
 The CHipCie takes care of the programming contest within Delft and consists of the following people.
-![CHipCie](/chipcie.webp)
+![CHipCie](/chipcie2022.webp)
 
 ## Top Row
 From left to right:
-* Nadyne Aretz, _Chairwoman_
-* Laura Pircalaboiu, _Treasurer_
-* Raoul Bruens, _Commissioner of Logistics & Activities_
-* Brian Witmer, _Commissioner of Recruitment & Promotion_
-* Maarten Sijm, _Commissioner of Jury Affairs_
-
-## Middle row
-From left to right:
-* Robert van Dijk, _Commissioner of Systems_
-* Elise Deen, _Secretary_
-* Maarten Weyns, _Commissioner of System Affairs_
-* Yoshi van den Akker, _Commissioner of System Affairs_
 * Thomas Verwoerd, _Commissioner of Coaches_
+* Maarten Sijm, _Commissioner of Jury Affairs_
+* Elise Deen, _Secretary_
+* Maarten Weyns, _Commissioner of Systems Affairs_
+* Yoshi van den Akker, _Commisioner of Operational Affairs_
+* Brian Witmer, _Commissioner of Recruitment & Promotion_
 
 ## Bottom Row:
 From left to right:
-* Merel Steenbergen, _Qualitate Qua_
-* Jaden Nierop, _Commissioner of System Affairs_
+* Laura Pircalaboiu, _Treasurer_
+* Els Brouwer, _Qualitate Qua_
+* Nadyne Aretz, _Chairwoman_
+* Raoul Bruens, _Commissioner of Logistics & Activities_
+* Merel Steenbergen, _Commissioner of External Affairs_
+* Robert van Dijk, _Head of Systems Affairs_
